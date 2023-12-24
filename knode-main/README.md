@@ -1,7 +1,10 @@
 # knode
 
 Explorative LLM learning tool for CS material with a node based interface (current version tuned for Data Structures and Algorithms). 
-As a User, you will 1. input topic of interest and obtain LLM generated explanation and subtopics for further exploration 2. Engage in iterative questioning to test your knowlege and obtain feedback from LLM
+
+As a User, you will 
+  1. input topic of interest and obtain LLM generated explanation and subtopics for further exploration
+  2. Engage in iterative questioning to test your knowlege and obtain feedback from LLM
 
 Link to pitch deck:
 
