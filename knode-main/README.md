@@ -1,4 +1,4 @@
-# knode
+# KNode
 
 Explorative LLM learning tool for CS material with a node based interface (current version tuned for Data Structures and Algorithms). 
 
